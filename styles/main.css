@@ -214,11 +214,11 @@ nav,
   padding: 0rem 0rem 1rem 0rem;
 }
 
-// #contact-container {
-// 	background-color: yellow;
-// 	width: 100%;
-// 	//height: 50rem;
-// }
+#contact-container {
+	background-color: yellow;
+	width: 100%;
+	//height: 50rem;
+}
 
 #socialmedia-container {
   //background-color: grey;
@@ -238,7 +238,7 @@ nav,
   height: 16rem;
   // box-shadow: inset 1px 1px 1px 1px;
   //             rgba(0,0,0,.85);
-  background: url(chicagobackground.jpg);
+  background: url(pottycheck.jpg);
   background-size: cover;
   margin: 1rem 1rem 1rem 2rem;
   border-radius: 1px;
@@ -254,7 +254,7 @@ nav,
   height: 16rem;
   // box-shadow: inset 1px 1px 1px 1px;
   //             rgba(0,0,0,.85);
-  background: url(chicagobackground.jpg);
+  background: url(baseball.jpg);
   background-size: cover;
   margin: 1rem 1rem 1rem 2rem;
   float: left;
@@ -288,7 +288,7 @@ nav,
   height: 16rem;
   // box-shadow: inset 1px 1px 1px 1px;
   //             rgba(0,0,0,.85);
-  background: url(chicagobackground.jpg);
+  background: url(codeabodefinal.jpg);
   background-size: cover;
   margin: 1rem 1rem 1rem 2rem;
   //border-radius: 1px;
@@ -318,6 +318,7 @@ nav,
 #centerpictures {
   margin: 0 auto;
   width: 75%;
+  
 }
 
 
@@ -333,6 +334,10 @@ nav,
 }
 
 
+
+
+
+
 #picture1Descrip {
   font-family: 'Marvel', sans-serif;
   font-weight: 900;
@@ -341,7 +346,13 @@ nav,
   font-size: 20px;
 }
 
-
+#picture4Descrip {
+  font-family: 'Marvel', sans-serif;
+  font-weight: 900;
+  //color: rgba(0, 0, 0, 0.85);
+  color: white;
+  font-size: 20px;
+}
 
 
 #idlink{
